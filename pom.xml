@@ -4,6 +4,9 @@
     <groupId>com.wayoos.akaba</groupId>
     <artifactId>akaba</artifactId>
     <version>0.1-SNAPSHOT</version>
+    <modules>
+        <module>backend</module>
+    </modules>
     <packaging>pom</packaging>
 
 </project>
